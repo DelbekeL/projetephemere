@@ -1,3 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Calistoga|Odibee+Sans|Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Calistoga|Odibee+Sans|Oswald|Source+Sans+Pro&display=swap');
+
 body{
-  background: pink;
+	background: #000000 ;
+	background: url('images/lion1.jpg');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+header h1 {
+  font-family: 'lobster', cursive;
+  font-size: 4em;
+  text-align: center;
+}
+
+#texte2 h3 {
+	color: white;
+	font-family: 'Calistoga';
+}
+
+#texte1 {
+  max-width: 840px;
+  margin-left: 5em;
+  margin-right: 50em;
+  color: #ffff;
+	font-family: 'lobster', cursive;
+	border: 3px solid white;
+	padding: 20px;
+}
+
+#texte1 H2 {
+	font-family: 'lobster';
+}
+
+#texte2 {
+		background-color: black;
+		background-size: contain;
+  color: #d2a479;
+	text-align: center;
+	margin-left: 80px;
+	margin-right: 80px;
+	padding: 100px;
+	border: 30px;
+	font-family: 'Oswald'
+
+}
+#texte2 img {
+	width: 900px;
+}
+
+
+#texte3 {
+  max-width: 840px;
+  margin-left: 50em;
+  margin-right: 5em;
+  color: #ffff;
+	padding: 30px;
+		background-color: #4c0000;
 }
